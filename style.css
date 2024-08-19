@@ -1,0 +1,220 @@
+.navbar-brand{
+    font-size: 3%;
+   
+}
+.title{
+    font-size: 1rem;
+}
+.nav-item{
+    font-size: 1rem;
+}
+.content{
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+ }
+ .head{
+    font-size: 3.5rem;
+    font-weight: 600;
+    font-family: "Grey Qo", cursive;
+ }
+ .he{
+    font-size: 2.8rem;
+    font-weight: 500;
+    font-family: "Grey Qo", cursive;
+ }
+ .enquiry{
+    text-align: center;
+    margin-top:  500px;
+ }
+ .col-md-3{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: box-shadow 0.3s ease;
+ }
+ .col-md-3:hover {
+    box-shadow: 0 4px 8px rgba(3, 0, 0, 0.6);
+}
+  .carousel-caption {
+    padding: 20px; 
+    top: 30%;
+    bottom: 50%;
+  }
+  .carousel-caption h5 {
+    font-family: "Grey Qo", cursive;
+    font-weight: 1000;
+    font-size: 3.8rem; 
+    margin-bottom: 0.5rem;
+    color:bisque;
+  }
+ .carousel-caption p {
+    font-family: "Peralta", system-ui;
+    font-size: 1.25rem; /* Adjust font size as needed */  
+ }
+ .col6{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5px;
+    margin-top: 50px;
+ }
+ .imag{
+    width: 250px;
+    height: 150px;
+ }
+ .red{
+    width: 200px;
+    height: 150px;
+    margin-left: 90px;
+ }
+ .opana{
+    width: 250px;
+    height: 150px;
+    margin-left: 185px;
+    margin-top: 5px;
+ }
+ .valam{
+    width: 250px;
+    height: 150px;
+    margin-top: 5px;
+ }
+ .pacha{
+    width: 200px;
+    height: 300px;
+    margin-left: 90px;
+    margin-top: 5px;
+ }
+ .thulal{
+    width: 250px;
+    height: 150px;
+    margin-top: 5px;
+ }
+ .katha{
+    width: 250px;
+    height: 120px;
+    margin-left: 185px;
+ }
+ .group{
+    width: 250px;
+    height: 175px;
+    margin-left: 185px;
+    margin-top: 5px;
+ }
+ .cultural{
+    display: block;
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 15px;
+ }
+ .col-md{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden; 
+ }
+ .col-md .f {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 50px;
+    left: 23%;
+    border: 1px solid;
+    border-radius: 10px;
+    transform: translate(-25%, -20%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    text-align: center;
+    background-color: aqua;
+  }
+  .col-md .hd{
+    color: white;
+    font-size: 30px;
+    padding: 40px;
+  }
+  .col-md .pd{
+    color: black;
+    font-size: 20px;
+  }
+  .col-md .g{
+    font-size: 20px;
+    color: blue;
+  }
+  .center{
+    color: white;
+    background-color: red;
+    border-radius: 1.5rem;
+ }
+  .col-md:hover .f {
+    opacity: 1;
+  }
+  .style{
+    text-align: center;
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 50px;
+  }
+.col-sm{
+    border: 2px solid;
+    border-radius: 2rem;
+    padding: 10px;
+    margin: 10px;
+    background-color: beige;
+}
+.ride{
+ border: 0px solid;
+ border-radius: 2rem;
+ width: 250px;
+ padding: 10px;
+ height: 150px;
+ background-color: antiquewhite;
+}
+.x{
+ text-align: center;
+}
+.campfire{
+    width: 250px;
+    height: 150px;
+    border: 0px solid;
+    border-radius: 2rem;
+    padding: 10px;
+    background-color: antiquewhite;
+ }
+ .support{
+    width: 250px;
+    height: 150px;
+    border: 0px solid;
+    border-radius: 2rem;
+    padding: 10px;
+    background-color: antiquewhite;
+ }
+ .tourguide{
+    width: 250px;
+    height: 150px;
+    border: 0px solid;
+    border-radius: 2rem;
+    padding: 10px;
+    background-color: antiquewhite;
+ }
+ .two{
+    text-align: center;
+ }
+ .b{
+    font-family: "Qwitcher Grypen", system-ui;
+   font-weight: 400;
+   text-align: center;
+   color: red;
+ }
+ .d{
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+}
+.e{
+        list-style:none;
+        font-size: 20px;
+        color: white;
+}
